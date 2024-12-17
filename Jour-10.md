@@ -4,6 +4,7 @@
 
 ### DOM :
 
+<<<<<<< HEAD
 - [x] Comprendre le DOM (https://javascript.info/browser-environment)
   - [x] Comprendre la façon dont il est construit.
   - [x] Comprendre sa structure.
